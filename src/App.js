@@ -1,6 +1,6 @@
 import { Route, Routes } from "react-router-dom";
 
-import Navigation from "./components/navigation/navgation.component";
+import Navigation from "./routes/navigation/navgation.component";
 import Home from "./routes/home/home.component";
 import Authentication from "./routes/authentication/authentication.component";
 import Shop from "./routes/shop/shop.component";
